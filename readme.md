@@ -2,6 +2,8 @@
 
 **Sausage Strats** is a lightweight strategy guide for **Warmane (3.3.5a)**. It provides instant, role-specific tactics for **Naxxramas** and **Heroic Dungeons** without alt-tabbing.
 
+**Version**:
+
 ## ✨ Features
 
 * **🛡️ Auto Role Detection**: Identifies if you are Tank, Healer, or DPS.
