@@ -1,8 +1,9 @@
 ## Interface: 30300
-## Title: |cffcd853fSausage|rStrats
-## Notes: Simple Naxxramas strategies by Sausage Party.
+## Title: |cffww0000Sausage|r Strat
+## Notes: Tactical guide for Naxxramas and Dungeons. Warmane Edition.
 ## Author: Sausage Party
-## Version: 1.1
-## SavedVariables: SausageStratsDB
+## Version: 1.0
+## SavedVariables: SausageStratDB
 
-SausageStrats.lua
+SausageStrat.xml
+SausageStrat.lua
